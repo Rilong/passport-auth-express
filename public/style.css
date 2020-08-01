@@ -1,0 +1,7 @@
+.mr-auto, .mx-auto {
+    margin-right: 0 !important;
+}
+
+.navbar-collapse {
+    justify-content: flex-end;
+}
